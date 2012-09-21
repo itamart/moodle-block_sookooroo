@@ -24,7 +24,7 @@
 defined('MOODLE_INTERNAL') or die;
 
 $plugin->component = 'block_sookooroo';
-$plugin->release = '1.0.1';
-$plugin->version = 2012091500;
+$plugin->release = '1.0.2';
+$plugin->version = 2012091502;
 $plugin->requires = 2010112400;
 $plugin->maturity = MATURITY_STABLE;

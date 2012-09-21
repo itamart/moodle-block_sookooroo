@@ -21,16 +21,16 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['title'] = 'Title';
-$string['config_btn_help'] = 'Leave empty to use the default "Virtual room" as the label of the entry button to the room, or enter your preferred label.';
 $string['config_btn'] = 'Button text';
+$string['config_btn_help'] = 'Leave empty to use the default "Virtual room" as the label of the entry button to the room, or enter your preferred label.';
+$string['config_room'] = 'Room name';
+$string['config_room_help'] = 'The name of the "virtual room" to access from this resource.';
+$string['config_websiteid'] = 'Website ID';
+$string['config_websiteid_help'] = 'The Website id with which the intended virtual room is associated. If you don\'t have a website id please refer to <a href=\'http://www.skrlive.com\'>http://www.skrlive.com</a> for obtaining it';
+$string['modulename'] = 'Sookooroo';
 $string['modulename_help'] = 'Sookooroo allows a course manager to embed a Sookooroo virtual room in a course block.';
 $string['modulenameplural'] = 'Sookooroos';
-$string['modulename'] = 'Sookooroo';
 $string['pluginadministration'] = 'Sookooroo administration';
 $string['pluginname'] = 'Sookooroo';
-$string['config_room_help'] = 'The name of the "virtual room" to access from this resource.';
-$string['config_room'] = 'Room name';
-$string['config_websiteid_help'] = 'The Website id with which the intended virtual room is associated. If you don\'t have a website id please refer to <a href=\'http://www.skrlive.com\'>http://www.skrlive.com</a> for obtaining it';
-$string['config_websiteid'] = 'Website ID';
-
+$string['sookooroo:moderator'] = 'Sookooroo moderator';
+$string['title'] = 'Title';
